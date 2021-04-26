@@ -20,4 +20,4 @@ My virtual bookshelf
 
 ## 2021
 
-- TBD
+- [Thinking in Systems: A Primer by *Donella H. Meadows, Diana Wright*](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
