@@ -21,3 +21,4 @@ My virtual bookshelf
 ## 2021
 
 - [Thinking in Systems: A Primer by *Donella H. Meadows, Diana Wright*](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+- [Technical Agile Coaching with the Samman method by *Emily Bache*](https://www.goodreads.com/book/show/56659570-technical-agile-coaching-with-the-samman-method)
