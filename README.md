@@ -23,3 +23,7 @@ My virtual bookshelf
 - [Thinking in Systems: A Primer by *Donella H. Meadows, Diana Wright*](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
 - [Technical Agile Coaching with the Samman method by *Emily Bache*](https://www.goodreads.com/book/show/56659570-technical-agile-coaching-with-the-samman-method)
 - [Atomic Habits by *James Clear*](https://www.goodreads.com/book/show/33154385-atomic-habits)
+
+## 2022
+
+- [Building Evolutionary Architectures: Support Constant Change by *Neal Ford, Rebecca Parsons, Patrick Kua*](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
