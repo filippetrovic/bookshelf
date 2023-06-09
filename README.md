@@ -29,3 +29,8 @@ My virtual bookshelf
 - [Building Evolutionary Architectures: Support Constant Change by *Neal Ford, Rebecca Parsons, Patrick Kua*](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
 - [Accelerate: Building and Scaling High Performing Technology Organizations by *Nicole Forsgren, Jez Humble, Gene Kim*](https://www.goodreads.com/en/book/show/35747076-accelerate)
 - [System Design Interview – An Insider's Guide by *Alex Xu*](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
+
+## 2023
+
+- [97 Things Every Software Architect Should Know: Collective Wisdom from the Experts by *Richard Monson-Haefel
+ (Editor)*](https://www.goodreads.com/book/show/5487765-97-things-every-software-architect-should-know)
